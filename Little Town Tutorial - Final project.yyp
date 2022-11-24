@@ -22,6 +22,7 @@
     {"id":{"name":"spr_baker_walk_up","path":"sprites/spr_baker_walk_up/spr_baker_walk_up.yy",},"order":7,},
     {"id":{"name":"spr_title_youDidIt","path":"sprites/spr_title_youDidIt/spr_title_youDidIt.yy",},"order":10,},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":10,},
+    {"id":{"name":"spr_item07","path":"sprites/spr_item07/spr_item07.yy",},"order":6,},
     {"id":{"name":"spr_fence01","path":"sprites/spr_fence01/spr_fence01.yy",},"order":2,},
     {"id":{"name":"spr_grocer_walk_up","path":"sprites/spr_grocer_walk_up/spr_grocer_walk_up.yy",},"order":6,},
     {"id":{"name":"spr_player_pickUp_down","path":"sprites/spr_player_pickUp_down/spr_player_pickUp_down.yy",},"order":16,},
