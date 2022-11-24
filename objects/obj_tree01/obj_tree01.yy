@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_tree01",
   "spriteId": {
     "name": "spr_tree01",
     "path": "sprites/spr_tree01/spr_tree01.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "Town Details",
     "path": "folders/Objects/Town Details.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_tree01",
-  "tags": [],
-  "resourceType": "GMObject",
 }

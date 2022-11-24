@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_fountain01",
   "spriteId": {
     "name": "spr_fountain",
     "path": "sprites/spr_fountain/spr_fountain.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -26,14 +30,10 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"useSound","path":"objects/obj_par_environment/obj_par_environment.yy",},"objectId":{"name":"obj_par_environment","path":"objects/obj_par_environment/obj_par_environment.yy",},"value":"snd_fountain","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"useSound","path":"objects/obj_par_environment/obj_par_environment.yy",},"objectId":{"name":"obj_par_environment","path":"objects/obj_par_environment/obj_par_environment.yy",},"value":"snd_fountain",},
   ],
   "parent": {
     "name": "Town Details",
     "path": "folders/Objects/Town Details.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_fountain01",
-  "tags": [],
-  "resourceType": "GMObject",
 }
